@@ -1,2 +1,2 @@
-# IOT-Based-Wheelchair-And-Person-Fall-Detection-Project
+# IOT-Based-Wheelchair-Or-Person-Fall-Detection-Project
 Arduino-Project
